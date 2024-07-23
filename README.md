@@ -6,13 +6,13 @@
 </p>
 
 
-## <picture><img src = "https://media1.tenor.com/m/VYUs0iVjqUAAAAAC/digital-life-lain.gif" width = 50px></picture> **The Meaning of existence**
+## <picture><img src = "https://media1.tenor.com/m/VYUs0iVjqUAAAAAC/digital-life-lain.gif" width = 50px></picture> **The meaning of existence**
 
 
-Someone indefinite left some repositories here that might be useful to someone
+Dropped some repositories here that might be useful to someone
 
-## <img src="https://media1.tenor.com/m/VYUs0iVjqUAAAAAC/digital-life-lain.gif" width ="50"><b> The structure of the brain </b>
+## <img src="https://media1.tenor.com/m/VYUs0iVjqUAAAAAC/digital-life-lain.gif" width ="50"><b> **About me** </b>
 
 <img align="right" width=200px height=130px alt="side_sticker" src="https://media1.tenor.com/m/VYUs0iVjqUAAAAAC/digital-life-lain.gif" />
 
-Anything that relates to DevOps && SEBjazFuZw== is my interests
+I am interested in DevOps && SEBjazFuZw==
