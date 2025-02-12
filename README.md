@@ -16,5 +16,6 @@ Dropped some repositories here that might be useful to someone
 <img align="right" width=200px height=130px alt="side_sticker" src="https://media1.tenor.com/m/VYUs0iVjqUAAAAAC/digital-life-lain.gif" />
 
 Smolin Danila 
+
 DevOps engineer
 
